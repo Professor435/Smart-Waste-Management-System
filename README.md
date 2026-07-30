@@ -2,7 +2,7 @@
 
 
 # 🌿 EcoSmart - Intelligent Waste Management System
-
+ 
 > **AI-powered IoT waste management platform** that transforms urban sanitation through real-time monitoring, predictive analytics, and autonomous route optimization.
 
 ![Dashboard Preview](https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square)
