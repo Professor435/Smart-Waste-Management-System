@@ -9,7 +9,7 @@
 ![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-
+ 
 ## 🚀 Overview
 
 EcoSmart is a comprehensive **Smart Waste Management System** designed for smart cities and municipalities. It combines IoT sensor integration, machine learning algorithms, and real-time fleet tracking to optimize waste collection operations, reduce environmental impact, and cut operational costs by up to **30%**.
