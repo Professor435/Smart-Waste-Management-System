@@ -1,7 +1,7 @@
 # Smart-Waste-Management-System
 
 
-# 🌿 EcoSmart - Intelligent Waste Management System
+# 🌿 EcoSmart - Intelligent Waste Management System 
  
 > **AI-powered IoT waste management platform** that transforms urban sanitation through real-time monitoring, predictive analytics, and autonomous route optimization.
 
