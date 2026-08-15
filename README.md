@@ -1,5 +1,5 @@
 # Smart-Waste-Management-System
-
+ 
 
 # 🌿 EcoSmart - Intelligent Waste Management System 
  
